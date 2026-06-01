@@ -3,7 +3,7 @@
 
 Curated tech & Web3 roles from **[Aipplify](https://aipplify.com)** — updated automatically from our job board.
 
-**349** active roles · last sync: _Mon, 01 Jun 2026 15:55:04 GMT_
+**349** active roles · last sync: _Mon, 01 Jun 2026 16:00:04 GMT_
 
 ### Browse by category
 
