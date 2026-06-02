@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Aipplify Awesome Job List">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="45%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#9333ea"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#312e81" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#shine)"/>
+  <g opacity="0.08" fill="#ffffff">
+    <circle cx="980" cy="60" r="120"/>
+    <circle cx="1100" cy="240" r="90"/>
+    <circle cx="80" cy="260" r="70"/>
+  </g>
+  <g opacity="0.15" stroke="#ffffff" stroke-width="1">
+    <path d="M0 240 C200 180, 400 300, 600 240 S1000 180, 1200 240" fill="none"/>
+    <path d="M0 200 C250 140, 450 260, 700 200 S1050 140, 1200 200" fill="none"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="72" y="78" width="56" height="56" rx="16" fill="#ffffff" fill-opacity="0.18"/>
+    <text x="100" y="118" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#ffffff">A</text>
+  </g>
+  <text x="148" y="108" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Aipplify</text>
+  <text x="148" y="148" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="600" fill="#e0e7ff" letter-spacing="0.5">Awesome Job List</text>
+  <text x="148" y="196" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#c7d2fe">Curated tech &amp; Web3 roles � AI-scored � Updated daily</text>
+  <g transform="translate(148, 224)">
+    <rect width="132" height="34" rx="17" fill="#ffffff" fill-opacity="0.16"/>
+    <text x="66" y="22" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">aipplify.com/jobs</text>
+  </g>
+  <g transform="translate(900, 92)">
+    <rect width="228" height="136" rx="20" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="24" y="36" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#e0e7ff">LIVE FEED</text>
+    <text x="24" y="68" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#ffffff">Tech Jobs</text>
+    <text x="24" y="96" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#ddd6fe">Web3 � AI/ML � Product</text>
+    <circle cx="196" cy="108" r="6" fill="#34d399"/>
+    <text x="176" y="112" text-anchor="end" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#a7f3d0">synced</text>
+  </g>
+</svg>
