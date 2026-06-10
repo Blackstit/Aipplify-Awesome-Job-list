@@ -9,14 +9,14 @@
 <p align="center">
   <a href="https://aipplify.com/jobs"><img src="https://img.shields.io/badge/Browse%20jobs-aipplify.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browse jobs" /></a>
   <a href="https://aipplify.com"><img src="https://img.shields.io/badge/Powered%20by-Aipplify-9333ea?style=for-the-badge" alt="Powered by Aipplify" /></a>
-  <img src="https://img.shields.io/badge/active-376-059669?style=for-the-badge" alt="Active roles" />
-  <img src="https://img.shields.io/badge/inactive-3840-64748b?style=for-the-badge" alt="Inactive roles" />
+  <img src="https://img.shields.io/badge/active-375-059669?style=for-the-badge" alt="Active roles" />
+  <img src="https://img.shields.io/badge/inactive-3841-64748b?style=for-the-badge" alt="Inactive roles" />
 </p>
 
 <p align="center">
   <strong>Automatically curated</strong> from the <a href="https://aipplify.com/jobs">Aipplify job board</a>.<br/>
   AI-scored roles across software, Web3, AI/ML, product, and more — synced from our aggregator.<br/>
-  <sub>Last updated: Wed, 10 Jun 2026 08:25:05 GMT</sub>
+  <sub>Last updated: Wed, 10 Jun 2026 08:30:04 GMT</sub>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 | 🤖 [AI & Machine Learning](#ai-machine-learning) | **54** |
 | 📱 [Product & Project](#product-project) | **4** |
 | 🔧 [DevOps & Security](#devops-security) | **0** |
-| 💼 [Business & Marketing](#business-marketing) | **81** |
+| 💼 [Business & Marketing](#business-marketing) | **80** |
 | 📋 [Other](#other) | **13** |
 
 ---
@@ -460,7 +460,6 @@
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>aboutyou.agency</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">SMM Manager</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Hybrid<br/>HYBRID</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/smm-manager-at-aboutyou-agency" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>IGAMINGHUNT</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Recruiter</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Hybrid<br/>HYBRID</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/recruiter-at-igaminghunt" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>BrainRocket</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Middle Creative Copywriter</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$20,000 – $32,500 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/middle-creative-copywriter-at-brainrocket" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>eLama</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Performance Marketing Group Leader</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">7.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Hybrid<br/>HYBRID</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/performance-marketing-group-leader-at-elama" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 </tbody></table>
 
 
@@ -492,7 +491,7 @@
 
 ## Archive
 
-**3840** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
+**3841** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
 
 ---
 
