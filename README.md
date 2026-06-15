@@ -9,14 +9,14 @@
 <p align="center">
   <a href="https://aipplify.com/jobs"><img src="https://img.shields.io/badge/Browse%20jobs-aipplify.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browse jobs" /></a>
   <a href="https://aipplify.com"><img src="https://img.shields.io/badge/Powered%20by-Aipplify-9333ea?style=for-the-badge" alt="Powered by Aipplify" /></a>
-  <img src="https://img.shields.io/badge/active-414-059669?style=for-the-badge" alt="Active roles" />
-  <img src="https://img.shields.io/badge/inactive-4074-64748b?style=for-the-badge" alt="Inactive roles" />
+  <img src="https://img.shields.io/badge/active-413-059669?style=for-the-badge" alt="Active roles" />
+  <img src="https://img.shields.io/badge/inactive-4075-64748b?style=for-the-badge" alt="Inactive roles" />
 </p>
 
 <p align="center">
   <strong>Automatically curated</strong> from the <a href="https://aipplify.com/jobs">Aipplify job board</a>.<br/>
   AI-scored roles across software, Web3, AI/ML, product, and more — synced from our aggregator.<br/>
-  <sub>Last updated: Mon, 15 Jun 2026 13:45:05 GMT</sub>
+  <sub>Last updated: Mon, 15 Jun 2026 13:50:05 GMT</sub>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 | Category | Active roles |
 | --- | ---: |
-| 💻 [Software Engineering](#software-engineering) | **58** |
+| 💻 [Software Engineering](#software-engineering) | **57** |
 | ⛓️ [Web3 & Crypto](#web3-crypto) | **198** |
 | 🤖 [AI & Machine Learning](#ai-machine-learning) | **67** |
 | 📱 [Product & Project](#product-project) | **4** |
@@ -111,7 +111,6 @@
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>League of Digital Economy</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Lead Python Developer</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Hybrid<br/>HYBRID</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/lead-python-developer-at-league-digital-economy" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Galaxy</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Security Design Engineer - Galaxy</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$52,000 – $104,000 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/security-design-engineer-galaxy-at-galaxy" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Galaxy / Parity</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Security Engineer (Data Centers) / Engineering Manager</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$120,000 – $147,000 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/security-engineer-data-centers-engineering-at-galaxy-parity" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>ITK Academy</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Junior Python Developer</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$0 – $0 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/junior-python-developer-at-itk-academy" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 </tbody></table>
 
 
@@ -530,7 +529,7 @@
 
 ## Archive
 
-**4074** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
+**4075** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
 
 ---
 
