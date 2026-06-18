@@ -9,14 +9,14 @@
 <p align="center">
   <a href="https://aipplify.com/jobs"><img src="https://img.shields.io/badge/Browse%20jobs-aipplify.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browse jobs" /></a>
   <a href="https://aipplify.com"><img src="https://img.shields.io/badge/Powered%20by-Aipplify-9333ea?style=for-the-badge" alt="Powered by Aipplify" /></a>
-  <img src="https://img.shields.io/badge/active-360-059669?style=for-the-badge" alt="Active roles" />
-  <img src="https://img.shields.io/badge/inactive-4302-64748b?style=for-the-badge" alt="Inactive roles" />
+  <img src="https://img.shields.io/badge/active-359-059669?style=for-the-badge" alt="Active roles" />
+  <img src="https://img.shields.io/badge/inactive-4303-64748b?style=for-the-badge" alt="Inactive roles" />
 </p>
 
 <p align="center">
   <strong>Automatically curated</strong> from the <a href="https://aipplify.com/jobs">Aipplify job board</a>.<br/>
   AI-scored roles across software, Web3, AI/ML, product, and more — synced from our aggregator.<br/>
-  <sub>Last updated: Thu, 18 Jun 2026 08:45:05 GMT</sub>
+  <sub>Last updated: Thu, 18 Jun 2026 08:50:05 GMT</sub>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 | Category | Active roles |
 | --- | ---: |
-| 💻 [Software Engineering](#software-engineering) | **52** |
+| 💻 [Software Engineering](#software-engineering) | **51** |
 | ⛓️ [Web3 & Crypto](#web3-crypto) | **171** |
 | 🤖 [AI & Machine Learning](#ai-machine-learning) | **66** |
 | 📱 [Product & Project](#product-project) | **4** |
@@ -105,7 +105,6 @@
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>TradingView</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Engineering Manager Desktop Team</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$11,000 – $17,000 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/engineering-manager-desktop-team-at-tradingview" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Riot Games</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Software Engineer - Riot Operations Center (SRE)</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$55,000 – $85,000 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/software-engineer-riot-operations-center-sre-at-riot-games" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Garage Eight</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Software Engineer</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$100,000 – $150,000 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/software-engineer-at-garage-eight" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Sitidrive</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Product Analyst</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/product-analyst-at-sitidrive" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 </tbody></table>
 
 
@@ -487,7 +486,7 @@
 
 ## Archive
 
-**4302** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
+**4303** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
 
 ---
 
