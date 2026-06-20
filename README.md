@@ -16,7 +16,7 @@
 <p align="center">
   <strong>Automatically curated</strong> from the <a href="https://aipplify.com/jobs">Aipplify job board</a>.<br/>
   AI-scored roles across software, Web3, AI/ML, product, and more — synced from our aggregator.<br/>
-  <sub>Last updated: Sat, 20 Jun 2026 04:40:04 GMT</sub>
+  <sub>Last updated: Sat, 20 Jun 2026 04:45:04 GMT</sub>
 </p>
 
 ---
