@@ -10,14 +10,14 @@
   <a href="https://aipplify.com/jobs"><img src="https://img.shields.io/badge/Browse%20jobs-aipplify.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browse jobs" /></a>
   <a href="https://aipplify.com"><img src="https://img.shields.io/badge/Powered%20by-Aipplify-9333ea?style=for-the-badge" alt="Powered by Aipplify" /></a>
   <a href="https://www.trackawesomelist.com/Blackstit/Aipplify-Awesome-Job-list/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
-  <img src="https://img.shields.io/badge/active-829-059669?style=for-the-badge" alt="Active roles" />
-  <img src="https://img.shields.io/badge/inactive-5898-64748b?style=for-the-badge" alt="Inactive roles" />
+  <img src="https://img.shields.io/badge/active-828-059669?style=for-the-badge" alt="Active roles" />
+  <img src="https://img.shields.io/badge/inactive-5899-64748b?style=for-the-badge" alt="Inactive roles" />
 </p>
 
 <p align="center">
   <strong>Automatically curated</strong> from the <a href="https://aipplify.com/jobs">Aipplify job board</a>.<br/>
   AI-scored roles across software, Web3, AI/ML, product, and more — synced from our aggregator.<br/>
-  <sub>Last updated: Thu, 16 Jul 2026 15:30:06 GMT</sub>
+  <sub>Last updated: Thu, 16 Jul 2026 15:35:06 GMT</sub>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 | Category | Active roles |
 | --- | ---: |
-| 💻 [Software Engineering](#software-engineering) | **189** |
+| 💻 [Software Engineering](#software-engineering) | **188** |
 | ⛓️ [Web3 & Crypto](#web3-crypto) | **85** |
 | 🤖 [AI & Machine Learning](#ai-machine-learning) | **227** |
 | 📱 [Product & Project](#product-project) | **14** |
@@ -243,7 +243,6 @@
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Stripe</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Backend Engineer, Developer SDKs (Golang)</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/backend-engineer-developer-sdks-golang-at-stripe" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Cursor</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Executive Assistant, User Operations</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/executive-assistant-user-operations-at-cursor" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Coinbase</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Senior IT Support Engineer</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$41,000 – $41,000 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/senior-it-support-engineer-at-coinbase" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Volna.tech</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">DevOps Engineer (Middle / Middle+)</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$2,000 – $2,400 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Remote<br/>REMOTE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/devops-engineer-middle-middle-at-volna-tech" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 </tbody></table>
 
 
@@ -957,7 +956,7 @@
 
 ## Archive
 
-**5898** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
+**5899** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
 
 ---
 
