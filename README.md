@@ -10,14 +10,14 @@
   <a href="https://aipplify.com/jobs"><img src="https://img.shields.io/badge/Browse%20jobs-aipplify.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browse jobs" /></a>
   <a href="https://aipplify.com"><img src="https://img.shields.io/badge/Powered%20by-Aipplify-9333ea?style=for-the-badge" alt="Powered by Aipplify" /></a>
   <a href="https://www.trackawesomelist.com/Blackstit/Aipplify-Awesome-Job-list/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
-  <img src="https://img.shields.io/badge/active-291-059669?style=for-the-badge" alt="Active roles" />
-  <img src="https://img.shields.io/badge/inactive-7655-64748b?style=for-the-badge" alt="Inactive roles" />
+  <img src="https://img.shields.io/badge/active-290-059669?style=for-the-badge" alt="Active roles" />
+  <img src="https://img.shields.io/badge/inactive-7656-64748b?style=for-the-badge" alt="Inactive roles" />
 </p>
 
 <p align="center">
   <strong>Automatically curated</strong> from the <a href="https://aipplify.com/jobs">Aipplify job board</a>.<br/>
   AI-scored roles across software, Web3, AI/ML, product, and more — synced from our aggregator.<br/>
-  <sub>Last updated: Tue, 11 Aug 2026 07:20:07 GMT</sub>
+  <sub>Last updated: Tue, 11 Aug 2026 07:25:08 GMT</sub>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 | 🤖 [AI & Machine Learning](#ai-machine-learning) | **36** |
 | 📱 [Product & Project](#product-project) | **5** |
 | 🔧 [DevOps & Security](#devops-security) | **1** |
-| 💼 [Business & Marketing](#business-marketing) | **59** |
+| 💼 [Business & Marketing](#business-marketing) | **58** |
 | 📋 [Other](#other) | **55** |
 
 ---
@@ -345,7 +345,6 @@
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>EveryMatrix</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Junior Finance Operations Analyst - Fixed-Term (Maternity Cover)</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Hybrid<br/>HYBRID</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/junior-finance-operations-analyst-fixed-term-at-everymatrix" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Evolution</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Senior Talent Acquisition Specialist</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/senior-talent-acquisition-specialist-at-evolution" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 <tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>IGT</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Accountant 3 - Senior Fixed Assets &amp; Capital Projects Accountant</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#059669">8.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">$75,000 – $85,000 USD</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/accountant-3-senior-fixed-assets-capital-projects-at-igt" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Leading Slot Games Provider</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Junior Compliance Officer</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/junior-compliance-officer-at-leading-slot-games-provider" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
 </tbody></table>
 
 
@@ -419,7 +418,7 @@
 
 ## Archive
 
-**7655** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
+**7656** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
 
 ---
 
