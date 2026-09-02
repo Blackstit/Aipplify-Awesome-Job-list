@@ -10,14 +10,14 @@
   <a href="https://aipplify.com/jobs"><img src="https://img.shields.io/badge/Browse%20jobs-aipplify.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browse jobs" /></a>
   <a href="https://aipplify.com"><img src="https://img.shields.io/badge/Powered%20by-Aipplify-9333ea?style=for-the-badge" alt="Powered by Aipplify" /></a>
   <a href="https://www.trackawesomelist.com/Blackstit/Aipplify-Awesome-Job-list/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
-  <img src="https://img.shields.io/badge/active-7-059669?style=for-the-badge" alt="Active roles" />
-  <img src="https://img.shields.io/badge/inactive-9221-64748b?style=for-the-badge" alt="Inactive roles" />
+  <img src="https://img.shields.io/badge/active-3-059669?style=for-the-badge" alt="Active roles" />
+  <img src="https://img.shields.io/badge/inactive-9225-64748b?style=for-the-badge" alt="Inactive roles" />
 </p>
 
 <p align="center">
   <strong>Automatically curated</strong> from the <a href="https://aipplify.com/jobs">Aipplify job board</a>.<br/>
   AI-scored roles across software, Web3, AI/ML, product, and more — synced from our aggregator.<br/>
-  <sub>Last updated: Wed, 02 Sep 2026 12:00:13 GMT</sub>
+  <sub>Last updated: Wed, 02 Sep 2026 12:05:12 GMT</sub>
 </p>
 
 ---
@@ -26,13 +26,13 @@
 
 | Category | Active roles |
 | --- | ---: |
-| 💻 [Software Engineering](#software-engineering) | **2** |
+| 💻 [Software Engineering](#software-engineering) | **0** |
 | ⛓️ [Web3 & Crypto](#web3-crypto) | **3** |
 | 🤖 [AI & Machine Learning](#ai-machine-learning) | **0** |
-| 📱 [Product & Project](#product-project) | **1** |
+| 📱 [Product & Project](#product-project) | **0** |
 | 🔧 [DevOps & Security](#devops-security) | **0** |
 | 💼 [Business & Marketing](#business-marketing) | **0** |
-| 📋 [Other](#other) | **1** |
+| 📋 [Other](#other) | **0** |
 
 ---
 
@@ -45,19 +45,6 @@
 | **View →** | Open the role on [aipplify.com](https://aipplify.com/jobs) |
 
 ---
-
-
-<h2 id="software-engineering">💻 Software Engineering</h2>
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;">
-<thead><tr>
-<th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:17%">Company</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:30%">Role</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Score</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:15%">Salary</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:17%">Location</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Age</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Link</th></tr></thead>
-<tbody>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Kaizen Gaming</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Network Reliability Engineer</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/network-reliability-engineer-at-kaizen-gaming" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Kaizen Gaming</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Analytics Engineer</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/analytics-engineer-at-kaizen-gaming" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-</tbody></table>
 
 
 <h2 id="web3-crypto">⛓️ Web3 & Crypto</h2>
@@ -74,35 +61,11 @@
 </tbody></table>
 
 
-<h2 id="product-project">📱 Product & Project</h2>
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;">
-<thead><tr>
-<th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:17%">Company</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:30%">Role</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Score</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:15%">Salary</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:17%">Location</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Age</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Link</th></tr></thead>
-<tbody>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Kaizen Gaming</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Project Manager</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">7.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/project-manager-at-kaizen-gaming" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-</tbody></table>
-
-
-<h2 id="other">📋 Other</h2>
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;">
-<thead><tr>
-<th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:17%">Company</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:30%">Role</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Score</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:15%">Salary</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:17%">Location</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Age</th><th style="padding:8px 10px;text-align:left;border-bottom:2px solid #e2e8f0;font-size:12px;color:#475569;background:#f8fafc;width:7%;text-align:center">Link</th></tr></thead>
-<tbody>
-<tr><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><strong>Kaizen Gaming</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">Data Protection Counsel</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><strong style="color:#d97706">6.0</strong></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;">—</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;"><details><summary><strong>2 locations</strong></summary>Office / on-site<br/>OFFICE</details></td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center">6d</td><td style="padding:7px 10px;border-bottom:1px solid #eef2f7;font-size:12px;vertical-align:top;color:#0f172a;text-align:center"><a href="https://aipplify.com/jobs/data-protection-counsel-at-kaizen-gaming" target="_blank" rel="noopener"><strong>View →</strong></a></td></tr>
-</tbody></table>
-
-
 ---
 
 ## Archive
 
-**9221** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
+**9225** inactive listings (older than 7 days or removed from the board) are stored in [`.github/scripts/listings.json`](.github/scripts/listings.json).
 
 ---
 
